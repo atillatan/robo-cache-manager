@@ -1,3 +1,3 @@
 # ROBO CACHE MANAGER
 
-## This application is in development
+### THIS PROJECT IS IN DEVELOPMENT RIGHT NOW. 
